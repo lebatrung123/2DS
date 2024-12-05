@@ -1,2 +1,2 @@
-# 2DS
-game2d
+# Game2d
+Game2d
